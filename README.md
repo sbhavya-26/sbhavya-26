@@ -17,9 +17,7 @@ Here are some ideas to get you started:
 # Hi, I'm Bhavyasri Sriranganilayam👋
 
 I am a Computer Science Engineering student passionate about technology and problem solving.  
-I am interested in Software Development and Data Analytics and enjoy learning new tools and building projects.
-
- -Currently learning Java programming
+I am interested in Software Development and Data Analytics and enjoy learning new tools and building projects.Currently learning Java programming
 - Practicing Data Structures and Algorithms
 - Exploring Data Analytics using Power BI
 - Building small projects to improve my development skills
